@@ -4,7 +4,9 @@ A Text based adventure RPG where a player is given a list of choices which are d
 Each action/decision taken by the player has a different outcome and affects the storyline.
 
 
-
+Used:-
+CLI Version: Java
+GUI Version: Java Swing & AWT
 
 
 
