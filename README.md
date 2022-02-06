@@ -5,8 +5,8 @@ Each action/decision taken by the player has a different outcome and affects the
 
 
 Used:-
-CLI Version: Java
-GUI Version: Java Swing & AWT
+CLI Version: Java.
+GUI Version: Java Swing & AWT.
 
 
 
